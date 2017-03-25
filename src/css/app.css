@@ -1,0 +1,79 @@
+html, body {
+    height:100%;
+}
+
+body {
+    display:flex;
+    background-image: url("/assets/img/bg3.jpg");
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a:link {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #10bf00;
+    text-decoration: none;
+}
+
+a:active {
+    color: #10bf00;
+    text-decoration: none;
+}
+
+.gradient {
+    position: absolute; top: 0; right: 0; bottom: 0; left: 0;
+    background: linear-gradient(to top right, black 20%, transparent);
+}
+
+.title {
+    color: #ffffff;
+    font-size: 5em;
+}
+
+.subtitle {
+    color: #7e7e7e;
+    font-size: 2em;
+}
+
+.text {
+    color: #7e7e7e;
+    font-size: 1.5em;
+}
+
+.fa-width {
+    width: 1.3em;
+}
+
+.contact-element {
+    display: inline-block;
+    width: 4.5em;
+}
+
+.contact-link {
+    color: #7e7e7e;
+    text-decoration: none;
+}
+
+.contact-detail {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.info-container {
+    position: relative;
+    top: 95%;
+    transform: translateY(-95%);
+    margin-left: 2em;
+}

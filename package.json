@@ -1,0 +1,19 @@
+{
+  "name": "bioweb",
+  "version": "1.0.0",
+  "description": "Bio web",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "browser-sync": "^2.18.8",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-postcss": "^6.3.0"
+  },
+  "scripts": {},
+  "author": "Álvaro Larumbe <biobiotm@gmail.com>",
+  "license": "ISC"
+}
