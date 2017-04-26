@@ -77,3 +77,22 @@ a:active {
     transform: translateY(-95%);
     margin-left: 2em;
 }
+
+@media screen and (max-width: 61.9em) {
+    .gradient {
+        background: linear-gradient(to top, black 30%, transparent);
+    }
+
+    .title {
+        font-size: 2.5em;
+    }
+
+    .text {
+        font-size: 1em;
+        line-height: 1.8em;
+    }
+
+    .info-container {
+        margin-left: 0.2em;
+    }
+}
