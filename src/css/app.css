@@ -72,7 +72,7 @@ a:active {
 }
 
 .info-container {
-    position: relative;
+    position: absolute;
     top: 95%;
     transform: translateY(-95%);
     margin-left: 2em;
