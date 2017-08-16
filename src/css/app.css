@@ -76,7 +76,7 @@ a:active {
     position: absolute;
     top: 95%;
     transform: translateY(-95%);
-    margin-left: 2em;
+    padding-left: 2em;
 }
 
 @media screen and (max-width: 61.9em) {
