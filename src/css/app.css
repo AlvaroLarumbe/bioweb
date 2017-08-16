@@ -4,7 +4,8 @@ html, body {
 
 body {
     display:flex;
-    background-image: url("/assets/img/bg3.jpg");
+    background: url("/assets/img/bg3.jpg") no-repeat;
+    background-size: cover;
 }
 
 ul {
